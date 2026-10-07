@@ -1,0 +1,6 @@
+{
+  "name": "Fuel Tycoon: Global Crisis",
+  "description": "A strategic gas station management game where you balance profit and customer satisfaction amidst shifting global events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
